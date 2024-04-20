@@ -1,3 +1,3 @@
 # DIGITAL CLOCK
 
-simple project crated using HTML , CSS and JavaScript 
+simple project created using HTML , CSS and JavaScript 
